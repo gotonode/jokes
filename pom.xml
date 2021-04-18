@@ -71,7 +71,7 @@
         <dependency>
             <groupId>org.fluentlenium</groupId>
             <artifactId>fluentlenium-assertj</artifactId>
-            <version>3.10.1</version>
+            <version>4.6.1</version>
             <scope>test</scope>
         </dependency>
         <dependency>
